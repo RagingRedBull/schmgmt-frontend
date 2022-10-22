@@ -3,3 +3,10 @@
 .app-header {
   background-color: #fff;
 }
+
+.site-layout-content {
+  min-height: 100vh;
+  padding-top: 2%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
